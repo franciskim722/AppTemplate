@@ -1,0 +1,24 @@
+{
+  "name": "apptemplate",
+  "version": "1.0.0",
+  "description": "Template",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciskim722/AppTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciskim722/AppTemplate/issues"
+  },
+  "homepage": "https://github.com/franciskim722/AppTemplate#readme"
+}
